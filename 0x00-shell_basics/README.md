@@ -1,1 +1,1 @@
-This is my second commit 
+ Learning shell basics
